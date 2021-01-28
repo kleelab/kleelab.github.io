@@ -1,0 +1,54 @@
+<footer class="site-footer navbar navbar-default">
+
+    <div class="container">
+
+        <div class="address">
+            <div class="row">
+                <div class="col-md-10">
+                    <address>
+                        <strong>Brain & Cognitive Science</strong><br>
+                        DGIST<br>
+                        E4-313, 333 Techno Jungang-daero<br />
+                        Hyeonpung-eup, Dalseong-gun<br />
+                        Daegu, 42988<br />
+                        <abbr title="Phone">P:</abbr> +82(53)785-6170
+                        <abbr title="Email">E:</abbr> <a href="mailto:klee@dgist.ac.kr">klee@dgist.ac.kr</a> <br>
+                        <!--<abbr title="Phone">P:</abbr> (123) 456-7890-->
+                    </address>
+
+                </div>
+                <col-md-2>
+                    <strong>Find us on</strong>
+                    <ul class="social-media-list">
+                        {% if site.github_username %}
+                        <li>
+                            {% include icon-github.html username=site.github_username %}
+                        </li>
+                        {% endif %}
+
+                        {% if site.twitter_username %}
+                        <li>
+                            {% include icon-twitter.html username=site.twitter_username %}
+                        </li>
+                        {% endif %}
+                    </ul>
+                </col-md-2>
+            </div>
+        </div>
+
+        <div class="copyright row">
+                &copy; DGIST
+        </div>
+    </div>
+</footer>
+
+<!--
+     Bootstrap core JavaScript
+     Placed at the end of the document so the pages load faster
+   -->
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- CDN for latest core JavaScript (compiled and minified) -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
