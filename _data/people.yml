@@ -4,15 +4,19 @@
   role: Assistant Professor
   photo: "images/Kwang.jpg"
   
-- name: "This could be you !"
-  role: PhD student
+- name: Hyojoo Han
+  role: Graduate Student
   photo: "/images/Rock.jpg"
 
-- name: "This could be you !"
-  role: Master Student
-  photo: "/images/Rock.jpg"
-
-- name: "This could be you !"
+- name: Jang Gyu Rim
   role: Undergraduate Student
+  photo: "/images/Jang Gyu Rim.jpg"
+
+- name: Gwangil Kim
+  role: Undergraduate Student
+  photo: "/images/Gwangil Kim.jpg"
+
+- name: "This could be you !"
+  role: Graduate Student
   photo: "/images/Rock.jpg"
 
