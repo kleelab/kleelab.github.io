@@ -1,6 +1,17 @@
 ---
 
 - title: >
+    Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
+  author: >
+    Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. <I>Neurobiology of Disease</I>.
+  image:
+  year: 2021
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
+
+
+- title: >
     Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
   author: >
     Dorst MC, Tokarska A, Zhou M, <u>Lee K</u>, Stagkourakis S, Broberger C, Masmanidis SC, Silberberg G. <I>Nature Communications</I>.
