@@ -8,7 +8,7 @@ excerpt: >
 
   Hyo Ju, Gwangil and Gyu Rim join the lab. Welcome!
   
-  - Gwangil is a potential graduate student, 2022
-  - Gyu Rim is a potential combined BS/MS, 2022
+  - Gwangil was passed as a graduate student, 2022
+  - Gyu Rim is a prospective combined BS/MS, 2022
   
   They are training neural dynamics research.
