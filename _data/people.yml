@@ -8,13 +8,17 @@
   role: Graduate Student
   photo: "/images/Hyo Ju Han.jpg"
 
-- name: Gyu Rim Jang
+- name: Da Yeon Lee
   role: Undergraduate Student
-  photo: "/images/Jang Gyu Rim.jpg"
+  photo: "/images/Da Yeon Lee.jpg"
 
 - name: Gwangil Kim
   role: Undergraduate Student
   photo: "/images/Gwangil Kim.jpg"
+  
+- name: Gyu Rim Jang
+  role: Undergraduate Student
+  photo: "/images/Jang Gyu Rim.jpg"
 
 - name: "This could be you !"
   role: Graduate Student
