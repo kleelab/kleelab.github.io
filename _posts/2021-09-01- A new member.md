@@ -6,4 +6,4 @@ excerpt: >
 ---
 
 
-  Da yeon joins the lab. She is a potential graduate student, 2022. Welcome!
+  Congratulations Da yeon! She has been admitted to DGIST, Neural Dynamics Lab as a graduate student, 2022. 
