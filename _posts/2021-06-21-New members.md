@@ -6,7 +6,7 @@ excerpt: >
 ---
 
 
-  Hyo Ju, Gwangil and Gyu Rim join the lab. Welcome!
+  Hyo Ju, Gwangil and Gyu Rim join the lab.  Welcome!
   
   - Gwangil was passed as a graduate student, 2022
   - Gyu Rim is a prospective combined BS/MS, 2022
