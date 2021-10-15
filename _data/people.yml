@@ -4,21 +4,21 @@
   role: Assistant Professor
   photo: "images/Kwang.jpg"
   
-- name: Hyo-Ju Han
-  role: Graduate Student
-  photo: "/images/Hyo Ju Han.jpg"
-
-- name: Gwangil Kim
-  role: Undergraduate Student
+- name: Da Yeon Lee
+  role: Graduate Student (22")
   photo: "/images/Gwangil Kim.jpg"
 
-- name: Da Yeon Lee
-  role: Undergraduate Student
+- name: Gwangil Kim
+  role: Graduate Student (22")
   photo: "/images/Da Yeon Lee.jpg"
   
 - name: Gyu Rim Jang
-  role: Undergraduate Student
+  role: UnIntegrated BS/MS program (22")
   photo: "/images/Jang Gyu Rim.jpg"
+  
+- name: Youngwoo Lee
+  role: Undergraduate Student
+  photo: "/images/Youngwoo Lee.PNG"
 
 - name: "This could be you !"
   role: Graduate Student
