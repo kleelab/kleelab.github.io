@@ -31,7 +31,7 @@
   repo:
     name: link
     url: https://www.nature.com/articles/s41593-019-0567-0
-  if: I.F. 24.844
+  if: <b>I.F. 24.844</b>
 
 
 
@@ -44,7 +44,7 @@
   repo:
     name: link
     url: https://iopscience.iop.org/article/10.1088/1741-2552/ab581a
-  if: 5.379
+  if: I.F. 5.379
 
 
 - title: >
@@ -56,7 +56,7 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S2211124719313749
-  if: 9.423
+  if: <b>I.F. 9.423</b>
 
 - title: >
     Aberrant features of in vivo striatal dynamics in movement disorders.
@@ -67,7 +67,7 @@
   repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24519
- if: 4.164
+ if: I.F. 4.164
 
 - title: >
     A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
@@ -78,7 +78,7 @@
   repo:
     name: link
     url: https://iopscience.iop.org/article/10.1088/1741-2552/aabc94
-  if: 5.379
+  if: I.F. 5.379
 
 - title: >
     Parvalbumin interneurons amplify striatal output and enhance performance during associative learning.
@@ -89,7 +89,7 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0896627317301411?via%3Dihub
-  if: 17.173
+  if: <b>17.173>/b>
 
 - title: >
     Droplet-born air blowing: novel dissolving microneedle fabrication.
@@ -146,7 +146,7 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961212007156
-  if: 12.479
+  if: <b>I.F. 12.479</b>
 
 
 - title: >
@@ -168,7 +168,7 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211007381?via%3Dihub
-  if: 12.479
+  if: <b>I.F. 12.479</b>
 
 
 - title: >
@@ -180,7 +180,7 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211000159?via%3Dihub
-  if: 12.479
+  if: <b>I.F. 12.479</b>
 
 - title: >
     Drawing lithography: Three-dimensional fabrication of an ultrahigh-aspect-ratio microneedle
@@ -191,4 +191,4 @@
   repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.200902418
-  if: 30.849
+  if: <b>I.F. 30.849</b>
