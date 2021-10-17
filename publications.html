@@ -34,13 +34,11 @@ layout: page
             {% endif %}
         </div>
         <div class="col-sm-1">
-            <h8 class="pub-year">{{pub.year}}</h8>
+            <p class="pub-year">{{pub.year}}</p>
         </div>
-        <div class="col-sm-1">
+        <div class="col-sm-2">
             <a href="{{ pub.repo.url }}">{{ pub.repo.name }}</a>
-        </div>
-	 <div class="col-sm-1">
-            <h8 class="impact-factor">{{pub.if}}</h8>
+            <p class="impact-factor">{{pub.if}}</p>
         </div>
     </div>
 	
