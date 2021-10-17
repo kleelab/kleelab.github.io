@@ -37,7 +37,7 @@
 - title: >
     Open source silicon microprobes for high throughput neural recording.
   author: >
-    Yang L*, <u>Lee K*</u>, Villagracia J, Masmanidis SC. <I>Journal of Neural Engineering</I>.
+    Yang L*, <b>Lee K*</b>, Villagracia J, Masmanidis SC. <I>Journal of Neural Engineering</I>.
   image:
   year: 2020
   repo:
@@ -48,7 +48,7 @@
 - title: >
     Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
   author: >
-    <u>Lee K</u>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Cell Reports</I>.
+    <b>Lee K</b>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Cell Reports</I>.
   image:
   year: 2019
   repo:
@@ -58,7 +58,7 @@
 - title: >
     Aberrant features of in vivo striatal dynamics in movement disorders.
   author: >
-    <u>Lee K</u>, Masmanidis SC. <I>Journal of Neuroscience research</I>.
+    <b>Lee K</b>, Masmanidis SC. <I>Journal of Neuroscience research</I>.
   image:
   year: 2019
   repo:
@@ -68,7 +68,7 @@
 - title: >
     A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
   author: >
-    Li B*, <u>Lee K*</u>, Masmanidis SC, Li M. <I>Journal of Neural Engineering</I>.
+    Li B*, <b>Lee K*</b>, Masmanidis SC, Li M. <I>Journal of Neural Engineering</I>.
   image:
   year: 2018
   repo:
@@ -78,7 +78,7 @@
 - title: >
     Parvalbumin interneurons amplify striatal output and enhance performance during associative learning.
   author: >
-    <u>Lee K*</u>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Neuron</I>.
+    <b>Lee K*</b>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Neuron</I>.
   image:
   year: 2017
   repo:
@@ -134,7 +134,7 @@
 - title: >
     Drawing lithography for microneedles: a review of fundamentals and biomedical application.
   author: >
-    <u>Lee K</u>, Jung H. <I>Biomaterials</I>.
+    <b>Lee K</b>, Jung H. <I>Biomaterials</I>.
   image:
   year: 2012
   repo:
@@ -155,7 +155,7 @@
 - title: >
     A high-capacity, hybrid electro-microneedle for in-situ cutaneous gene transfer
   author: >
-    <u>Lee K</u>, Kim JD, Lee CY, Her S, Jung H. <I>Biomaterials</I>.
+    <b>Lee K</b>, Kim JD, Lee CY, Her S, Jung H. <I>Biomaterials</I>.
   image:
   year: 2011
   repo:
@@ -166,7 +166,7 @@
 - title: >
     Dissolving microneedles for transdermal drug administration prepared by stepwise controlled drawing of maltose
   author: >
-    <u>Lee K</u>, Lee CY, Jung H.  <I>Biomaterials</I>.
+    <b>Lee K</b>, Lee CY, Jung H.  <I>Biomaterials</I>.
   image:
   year: 2011
   repo:
@@ -176,7 +176,7 @@
 - title: >
     Drawing lithography: Three-dimensional fabrication of an ultrahigh-aspect-ratio microneedle
   author: >
-    <u>Lee K</u>, Lee HC, Lee DS, Jung H.  <I>Advanced Materials</I>.
+    <b>Lee K</b>, Lee HC, Lee DS, Jung H.  <I>Advanced Materials</I>.
   image:
   year: 2010
   repo:
