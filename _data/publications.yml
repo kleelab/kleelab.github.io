@@ -1,16 +1,5 @@
 ---
 - title: >
-    Title
-  author: >
-    Authors  <I>Journal</I>
-  image:
-  year: Year
-  repo:
-    name: Link
-    url: 
-
-
-- title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
   author: >
     Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. <I>Neurobiology of Disease</I>
