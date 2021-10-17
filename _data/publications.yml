@@ -1,4 +1,14 @@
 ---
+- title: >
+    Title.
+  author: >
+    Authors  <I>Journal</I>.
+  image:
+  year: year
+  repo:
+    name: link
+    url: 
+
 
 - title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
