@@ -26,7 +26,7 @@ layout: page
             {% endif %}
         </div>-->
         <div class="col-sm-8">
-            <p class="pub-title">{{ pub.title }}</p>
+            <h4 class="pub-title">{{ pub.title }}</h4>
             <p class="pub-author">{{ pub.author }}</p>
             <p class="pub-where">{{ pub.where }}</p>
             {% if pub.abstract %}
@@ -34,11 +34,11 @@ layout: page
             {% endif %}
         </div>
         <div class="col-sm-1">
-            <p class="pub-year">{{pub.year}}</p>
+            <h4 class="pub-year">{{pub.year}}</h4>
         </div>
         <div class="col-sm-2">
             <a href="{{ pub.repo.url }}">{{ pub.repo.name }}</a>
-            <p class="impact-factor">{{pub.if}}</p>
+            <h4 class="impact-factor">{{pub.if}}</h4>
         </div>
     </div>
 	
