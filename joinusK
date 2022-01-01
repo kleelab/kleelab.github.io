@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="people">
+    <div class="container">
+        <h1 class="joinus">Openings</h1>
+        <br>
+     <p> (<a href="{{ site.url }}{{ site.baseurl }}/joinus">영어</a>)</p>
+     
+      <h4>*Note: 우리는 2022년도에 한명의 대학원생을 모집합니다.</h4>
+        <p>
+     <ul>
+     <li>
+         뇌와 컴퓨터를 연결하는데 관심이 있는 모든 지원자를 환영합니다. 우리 연구실에 대학원생이 된다면, 살아있는 동물의 뇌에서 신경신호를 직접 기록하고 조절하며, 뇌신경 빅데이터 기반의 분석과 새로운 뇌과학 연구방법의 개발을 통하여 뇌과학 난제에 도전할 기회를 가지게 될 것입니다. </p>
+     </ul>
+<br>
+
+        <h4>지원방법:</h4>
+       <p>
+       <ul>
+     <li>
+         대학원 지원을 위하여 자기소개서, 이력서와 대학 성적증명서를 보내주시길 바랍니다. 문의 및 지원 이메일: <a href="mailto:KLEE@dgist.ac.kr">KLEE@dgist.ac.kr</a> </p>
+        <li>
+      </ul>
+        <br>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/61678783f7c0440a591e17e2/1fhu6imnn';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+</div>
+</div>
