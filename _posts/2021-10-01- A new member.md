@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Welcome a new member!
+title:  Welcome Youngwoo.
 date:   2021-10-01
 excerpt: >
 ---
 
 
-  Welcome! Youngwoo joins the lab.
+  Welcome! Youngwoo joined the NDL.
