@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome a new member!
+title:  Welcome Minjy
 date:   2022-06-01
 excerpt: >
 ---
