@@ -6,4 +6,4 @@ excerpt: >
 ---
 
 
-  Congratulations Da Yeon!  She will be admitted to DGIST, NDL as a graduate student, 2022. 
+  Congratulations Da Yeon!  She will be admitted to DGIST, the NDL as a graduate student, 2022. 
