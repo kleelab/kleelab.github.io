@@ -12,9 +12,21 @@
   role: Graduate Student
   photo: "/images/Gwangil Kim.jpg"
   
+- name: Min Ji Kim
+  role: Graduate Student
+  photo: "/images/Min Ji Kim.jpg"
+  
+- name: Chang Hak Lee
+  role: Undergraduate Student
+  photo: "/images/Chang Hak Lee.jpg"
+  
 - name: Youngwoo Lee
   role: Undergraduate Student
   photo: "/images/Youngwoo Lee.PNG"
+  
+- name: Hyerin Jang
+  role: Intern
+  photo: "/images/Hyerin Jang.PNG"  
 
 - name: "This could be you !"
   role: Graduate Student
