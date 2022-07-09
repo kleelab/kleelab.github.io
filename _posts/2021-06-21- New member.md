@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome Gwangil.
+title:  Welcome. Gwangil!
 date:   2021-06-21
 excerpt: >
 ---
