@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome. Min Ji.
+title:  Welcome. Min Ji!
 date:   2022-06-01
 excerpt: >
 ---
