@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome Da yeon
+title:  Welcome. Da yeon!
 date:   2021-09-01
 excerpt: >
 ---
