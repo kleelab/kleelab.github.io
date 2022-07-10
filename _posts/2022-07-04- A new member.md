@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome. Hyerin!
 date:   2022-07-04
-excerpt: >
+excerpt: > Hyerin joins the NDL. Welcome!
 ---
 
 Hyerin joins the NDL. Welcome!
