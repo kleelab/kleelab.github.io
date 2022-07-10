@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome. Gwangil!
 date:   2021-06-21
-excerpt: >
+excerpt: > Gwangil joined the NDL. He as passed as a graduate student, 2022
 ---
 
 
