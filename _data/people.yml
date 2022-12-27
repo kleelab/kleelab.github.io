@@ -13,8 +13,12 @@
   photo: "/images/Min Ji Kim.jpg"
   
 - name: Chang Hak Lee
-  role: Undergraduate Student
+  role: Graduate Student
   photo: "/images/Chang Hak Lee.jpg"
+  
+- name: Young Kwon Park
+  role: Graduate Student
+  photo: "/images/Young Kwon Park.jpg"
   
 - name: Youngwoo Lee
   role: Undergraduate Student
