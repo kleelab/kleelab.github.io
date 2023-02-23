@@ -26,10 +26,10 @@ layout: default
           
         <h1 class="alumni">Alumni</h1>
        {% for person in site.data.alumni %}
+         <div class="person col-md-4 col-sm-6 col-xs-12">
         
            <h3 class="person-role">{{ person.name }}</h3>
            <p class="person-role">{{ person.role }} </p>
-          <br> 
          </div>
           
         {% endfor %}
