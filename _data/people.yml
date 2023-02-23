@@ -2,7 +2,7 @@
 
 - name: Kwang Lee
   role: Assistant Professor
-  photo: "images/Kwang.jpg"
+  photo: "images/Kwang2.jpg"
   
 - name: Gwangil Kim
   role: Graduate Student
@@ -19,11 +19,7 @@
 - name: Young Kwon Park
   role: Graduate Student
   photo: "/images/Young Kwon Park.jpg"
-  
-- name: Sohye Kim
-  role: Undergraduate Student
-  photo: "/images/Sohye Kim.jpg"
-  
+   
 - name: Youngwoo Lee
   role: Undergraduate Student
   photo: "/images/Youngwoo Lee.PNG"
