@@ -23,18 +23,15 @@ layout: default
     <br>
         
         
-    <div class="container">
+      <div class="container">
 
         
         <h1 class="alumni">Alumni</h1>
 
         {% for person in site.data.alumni %}
-
-        <!--<div class="person col-md-4 col-sm-6 col-xs-12">
-            <img src="{{ person.photo }}"
-                 alt="photo" class="person-photo img-circle">-->
         
-           <h3 class="person-role">{{ person.name }}</h3> <p class="person-role">{{ person.role }} </p>
+           <h3 class="person-role">{{ person.name }}</h3>
+           <p class="person-role">{{ person.role }} </p>
         
         </div>
 
