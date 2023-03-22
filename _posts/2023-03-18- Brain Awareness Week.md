@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listen to a lecure about Brain Dynamics 
+title: A lecure about Brain Dynamics 
 date:   2023-03-18
 excerpt: > 
 ---
