@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A lecure about Brain Dynamics 
+title: A lecture about Brain Dynamics 
 date:   2023-03-18
 excerpt: > 
 ---
