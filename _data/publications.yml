@@ -1,13 +1,24 @@
 ---
 
 - title: >
-    Physiological constraints on the rapid dopaminergic modulation of striatal reward activity.
+    The neural dynamics observation with larger-scale, wider-range, and multimodal activity.
   author: >
-    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC. <b><I>Preprint</I></b>
+    Lee CH, Park YK, <b><u>Lee K</u></b>. <b><I>Under review</I></b>
   image:
   year: 2022
   repo:
-    name: link
+    name: 
+    url:
+
+
+- title: >
+    Physiological constraints on the rapid dopaminergic modulation of striatal reward activity.
+  author: >
+    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC. <b><I>Under review</I></b>
+  image:
+  year: 2022
+  repo:
+    name: Preprint
     url: https://www.biorxiv.org/content/10.1101/2022.09.16.508310v1
 
 
