@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome. Hye Jin!
+title:  Welcome. Sung-Jo and Hye Jin!
 date:   2023-05-03
 excerpt:
 ---
