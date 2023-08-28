@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A lecture about Brain Dynamics 
-date:   2023-03-18
-excerpt: <iframe width="560" height="315" src="https://www.youtube.com/embed/LFP5H3ereig?start=1981" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+title: Travel award for Excellent Presentation
+date:   2023-08-04
+excerpt: 
 ---
-Prof.Lee presented Brain Dynamics during Brain Awareness Week.
+Prof.Lee received an award of Travel award for Excellent presentation from The Japan Neuroscience Society.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LFP5H3ereig?start=1981" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
