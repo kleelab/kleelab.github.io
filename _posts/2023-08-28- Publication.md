@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations on NDL's first paper
+title:  NDL's first paper
 date:   2023-08-28
 excerpt:
 ---
