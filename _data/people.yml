@@ -16,13 +16,21 @@
   role: Graduate Student
   photo: "/images/Young Kwon Park.jpg"
    
-- name: Youngwoo Lee
-  role: Undergraduate Student
-  photo: "/images/Youngwoo Lee.jpg"
+- name: Hyeong Jin Kim
+  role: Intern
+  photo: "/images/Hyeong Jin Kim.jpg"
   
-- name: Sung-Jo You
-  role: Undergraduate Student
-  photo: "/images/Sung-Jo You.jpg"
+- name: Hayoung Lee
+  role: Intern
+  photo: "/images/Hayoung Lee.jpg"
+
+- name: Hyeonsea Kang
+  role: Intern
+  photo: "/images/Hyeonsea Kang.jpg"
+
+- name: Min Yong Lee
+  role: Intern
+  photo: "/images/Min Yong Lee.jpg"
   
 - name: "This could be you !"
   role: Graduate Student
