@@ -5,11 +5,8 @@ layout: default
 <div class="people">
     <div class="container">
         
-        <h1 class="people">Current members</h1>
-        
-<br>
-<img src="/images/Labphoto1.jpg" width="400">  
-<br>         
+        <h1 class="people">Current members</h1>      
+<br>      
         {% for person in site.data.people %}
         
         <div class="person col-md-4 col-sm-6 col-xs-12">
@@ -19,7 +16,11 @@ layout: default
             <p class="person-role">{{ person.role }}  </p>           
 
         </div>
-   
+
+<br>
+<img src="/images/Labphoto1.jpg" width="400">  
+<br>   
+        
         {% endfor %}
       </div>
     
