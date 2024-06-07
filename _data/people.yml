@@ -21,12 +21,16 @@
   photo: "/images/Hayoung Lee.JPG"
 
 - name: Min Yong Lee
-  role: Intern
+  role: Graduate Student
   photo: "/images/Min Yong Lee.jpg"
   
 - name: Hyeonseo Kang
-  role: Intern
+  role: Graduate Student
   photo: "/images/Hyeonseo Kang.jpg"
+
+- name: Hye Jin Choi
+  role: Undergraduate Student
+  photo: "/images/Hye Jin Choi.jpg"
 
 - name: "This could be you !"
   role: Graduate Student
