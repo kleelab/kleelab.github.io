@@ -7,11 +7,9 @@
   image:
   where: >
     <b>Nature Neuroscience</b> (한빛사 논문)
-  year:  >
-    2024
+  year: 2024
   repo:
-  name:  >
-    accepted
+  name: accepted
     url: 
 
 - title: >
@@ -23,9 +21,8 @@
     <b>Biosensors and Bioelectronics</b> (한빛사 논문)
 year:  >
     2023 
-  repo:
-name:  >
-    link
+repo:
+name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
 - title: >
@@ -163,7 +160,7 @@ name:  >
   where: >
     Advanced Healthcare Materials
   year: 2013
-  repo: 7
+  repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201200239
 
@@ -177,7 +174,7 @@ name:  >
   where: >
     Biomedical Microdevices
   year: 2013
-  repo: 6
+  repo:
     name: link
     url: https://link.springer.com/article/10.1007/s10544-012-9683-2
 
@@ -190,7 +187,7 @@ name:  >
   where: >
     <b>Biomaterials</b>
   year: 2012
-  repo: 5
+  repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961212007156
 
@@ -203,7 +200,7 @@ name:  >
   where: >
     Advanced Materials
   year: 2012
-  repo: 4
+  repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201201109
 
@@ -215,7 +212,7 @@ name:  >
   where: >
     <b>Biomaterials</b>
   year: 2011
-  repo: 3
+  repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211007381?via%3Dihub
 
@@ -228,7 +225,7 @@ name:  >
   where: >
     <b>Biomaterials</b>
   year: 2011
-  repo: 2
+  repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211000159?via%3Dihub
 
@@ -240,6 +237,6 @@ name:  >
   where: >
     <b>Advanced Materials</b> (한빛사 논문)
   year: 2010
-  repo: 1
+  repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.200902418
