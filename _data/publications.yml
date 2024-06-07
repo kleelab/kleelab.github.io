@@ -7,10 +7,10 @@
   image:
   where: >
     <b>Nature Neuroscience</b> (한빛사 논문)
-  year:
+  year:  >
     2024
   repo:
-    name:
+  name:  >
     accepted
     url: 
 
@@ -21,10 +21,10 @@
   image:
   where: >
     <b>Biosensors and Bioelectronics</b> (한빛사 논문)
-  year:
+year:  >
     2023 
   repo:
-    name:
+name:  >
     link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
