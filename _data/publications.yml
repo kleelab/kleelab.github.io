@@ -1,28 +1,4 @@
 ---
-- title: >
-   Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
-  author: >
-    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
-  image:
-  where: >
-   <b>Nature Neuroscience</b> (한빛사 논문)
-  year: 2024
-  repo:
-    name: accepted
-    url: 
-
-- title: >
-   Recent strategies for neural dynamics observation at a larger scale and wider scope.
-  author: >
-   Lee CH, Park YK, <b><u>Lee K#</u></b>.
-  image:
-  where: >
-  <b>Biosensors and Bioelectronics</b> (한빛사 논문)
-year:  2023 
-repo:
-name: link
-    url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
-
 
 - title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
