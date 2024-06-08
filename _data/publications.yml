@@ -1,4 +1,5 @@
 ---
+
 - title: >
     Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
   author: >
@@ -22,7 +23,8 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
-    
+
+ 
 - title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
   author: >
@@ -34,7 +36,6 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
-
 
 - title: >
     Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
@@ -48,7 +49,6 @@
     name: link
     url: https://www.nature.com/articles/s41467-020-18882-y
 
-
 - title: >
     Temporally restricted dopaminergic control of reward-conditioned movements.
   author: >
@@ -61,8 +61,6 @@
     name: link
     url: https://www.nature.com/articles/s41593-019-0567-0
 
-
-
 - title: >
     Open source silicon microprobes for high throughput neural recording.
   author: >
@@ -74,7 +72,6 @@
   repo:
     name: link
     url: https://iopscience.iop.org/article/10.1088/1741-2552/ab581a
-
 
 - title: >
     Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
@@ -136,7 +133,6 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0168365913003167?via%3Dihub
 
-
 - title: >
     Thermostable branched DNA nanostructures as modular primers for polymerase chain reaction.
   author: >
@@ -148,8 +144,6 @@
   repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201302175
-
-
 
 - title: >
     Tower microneedle via reverse drawing lithography for innocuous intravitreal drug delivery.
@@ -163,8 +157,6 @@
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201200239
 
-
-
 - title: >
     An optimized hollow microneedle for minimally invasive blood extraction.
   author: >
@@ -177,7 +169,6 @@
     name: link
     url: https://link.springer.com/article/10.1007/s10544-012-9683-2
 
-
 - title: >
     Drawing lithography for microneedles: a review of fundamentals and biomedical application.
   author: >
@@ -189,7 +180,6 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961212007156
-
 
 - title: >
     A minimally invasive blood-extraction system: elastic self-recovery actuator integrated with an ultrahigh-aspect-ratio microneedle
@@ -214,7 +204,6 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211007381?via%3Dihub
-
 
 - title: >
     Dissolving microneedles for transdermal drug administration prepared by stepwise controlled drawing of maltose
