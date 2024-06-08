@@ -2,7 +2,7 @@
 - title: >
    Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
   author: >
-  Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
+    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   image:
   where: >
    <b>Nature Neuroscience</b> (한빛사 논문)
@@ -11,10 +11,13 @@
     name: accepted
     url: 
 
-- title: Recent strategies for neural dynamics observation at a larger scale and wider scope.
-  author: Lee CH, Park YK, <b><u>Lee K#</u></b>.
+- title: >
+   Recent strategies for neural dynamics observation at a larger scale and wider scope.
+  author: >
+   Lee CH, Park YK, <b><u>Lee K#</u></b>.
   image:
-  where: <b>Biosensors and Bioelectronics</b> (한빛사 논문)
+  where: >
+  <b>Biosensors and Bioelectronics</b> (한빛사 논문)
 year:  2023 
 repo:
 name: link
