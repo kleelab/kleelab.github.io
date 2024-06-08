@@ -18,7 +18,7 @@
   where: >
     <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
   image:
-  year:  2023 
+  year: 2023 
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
@@ -26,7 +26,9 @@
 - title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
   author: >
-    Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. <I>Neurobiology of Disease</I>.
+    Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. 
+  where: >
+    <I>Neurobiology of Disease</I>
   image:
   year: 2021
   repo:
@@ -37,7 +39,9 @@
 - title: >
     Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
   author: >
-    Dorst MC, Tokarska A, Zhou M, <u>Lee K</u>, Stagkourakis S, Broberger C, Masmanidis SC, Silberberg G. <I>Nature Communications</I>.
+    Dorst MC, Tokarska A, Zhou M, <u>Lee K</u>, Stagkourakis S, Broberger C, Masmanidis SC, Silberberg G.
+  where: >
+    <I>Nature Communications</I>
   image:
   year: 2020
   repo:
@@ -48,7 +52,9 @@
 - title: >
     Temporally restricted dopaminergic control of reward-conditioned movements.
   author: >
-    <u>Lee K*</u>, Claar LD* , Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC. <I>Nature Neuroscience</I>.
+    <u>Lee K*</u>, Claar LD* , Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC.
+  where: >
+    <b><I>Nature Neuroscience</I></b> (한빛사 논문)
   image:
   year: 2020
   repo:
@@ -60,7 +66,9 @@
 - title: >
     Open source silicon microprobes for high throughput neural recording.
   author: >
-    Yang L*, <u>Lee K*</u>, Villagracia J, Masmanidis SC. <I>Journal of Neural Engineering</I>.
+    Yang L*, <u>Lee K*</u>, Villagracia J, Masmanidis SC.
+  where: >
+  <b><I>Journal of Neural Engineering</I></b>
   image:
   year: 2020
   repo:
@@ -71,7 +79,9 @@
 - title: >
     Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
   author: >
-    <u>Lee K</u>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Cell Reports</I>.
+    <u>Lee K</u>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
+  where: >
+   <b><I>Cell Reports</I></b>
   image:
   year: 2019
   repo:
@@ -81,7 +91,9 @@
 - title: >
     Aberrant features of in vivo striatal dynamics in movement disorders.
   author: >
-    <u>Lee K</u>, Masmanidis SC. <I>Journal of Neuroscience research</I>.
+    <u>Lee K</u>, Masmanidis SC.
+  where: >
+    <b><I>Journal of Neuroscience research</I></b>
   image:
   year: 2019
   repo:
@@ -91,7 +103,9 @@
 - title: >
     A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
   author: >
-    Li B*, <u>Lee K*</u>, Masmanidis SC, Li M. <I>Journal of Neural Engineering</I>.
+    Li B*, <u>Lee K*</u>, Masmanidis SC, Li M.
+  where: >
+    <b><I>Journal of Neural Engineering</I></b>
   image:
   year: 2018
   repo:
@@ -101,7 +115,9 @@
 - title: >
     Parvalbumin interneurons amplify striatal output and enhance performance during associative learning.
   author: >
-    <u>Lee K*</u>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC. <I>Neuron</I>.
+    <u>Lee K*</u>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
+  where: >
+    <b><I>Neuron</I></b> (한빛사 논문)
   image:
   year: 2017
   repo:
@@ -111,7 +127,9 @@
 - title: >
     Droplet-born air blowing: novel dissolving microneedle fabrication.
   author: >
-    Kim JD, Kim M, Yang H, <u>Lee K</u>, Jung H. <I>Journal of Controlled Release</I>.
+    Kim JD, Kim M, Yang H, <u>Lee K</u>, Jung H.
+  where: >
+    <I>Journal of Controlled Release</I>
   image:
   year: 2013
   repo:
@@ -122,7 +140,9 @@
 - title: >
     Thermostable branched DNA nanostructures as modular primers for polymerase chain reaction.
   author: >
-    Hartman MR, Yang D, Tran TN, <u>Lee K</u>, Kahn JS, Kiatwuthinon P, Yancey KG, Trotsenko O, Minko S, Luo D. <I>Angewandte Chemie</I>.
+    Hartman MR, Yang D, Tran TN, <u>Lee K</u>, Kahn JS, Kiatwuthinon P, Yancey KG, Trotsenko O, Minko S, Luo D.
+  where: >
+    <I>Angewandte Chemie</I>
   image:
   year: 2013
   repo:
@@ -134,7 +154,9 @@
 - title: >
     Tower microneedle via reverse drawing lithography for innocuous intravitreal drug delivery.
   author: >
-    Lee CY, <u>Lee K</u>, You YS, Lee SH, Jung H. <I>Advanced Healthcare Materials</I>.
+    Lee CY, <u>Lee K</u>, You YS, Lee SH, Jung H.
+  where: >
+    <I>Advanced Healthcare Materials</I>
   image:
   year: 2013
   repo:
@@ -146,8 +168,10 @@
 - title: >
     An optimized hollow microneedle for minimally invasive blood extraction.
   author: >
-    Li CG, Lee CY, <u>Lee K</u>, Jung H. <I>Biomedical Microdevices</I>.
-  image: ../images/EAGLE.png
+    Li CG, Lee CY, <u>Lee K</u>, Jung H.
+  where: > 
+    <I>Biomedical Microdevices</I>
+  image:
   year: 2013
   repo:
     name: link
@@ -157,7 +181,9 @@
 - title: >
     Drawing lithography for microneedles: a review of fundamentals and biomedical application.
   author: >
-    <u>Lee K</u>, Jung H. <I>Biomaterials</I>.
+    <u>Lee K</u>, Jung H.
+  where: > 
+    <b><I>Biomaterials</I></b> (한빛사 논문)
   image:
   year: 2012
   repo:
@@ -168,7 +194,9 @@
 - title: >
     A minimally invasive blood-extraction system: elastic self-recovery actuator integrated with an ultrahigh-aspect-ratio microneedle
   author: >
-    Li CG, <u>Lee K</u>, Lee CY, Dangol M, Jung H. <I>Advanced Materials</I>.
+    Li CG, <u>Lee K</u>, Lee CY, Dangol M, Jung H.
+  where: > 
+      <I>Advanced Materials</I>
   image:
   year: 2012
   repo:
@@ -178,7 +206,9 @@
 - title: >
     A high-capacity, hybrid electro-microneedle for in-situ cutaneous gene transfer
   author: >
-    <u>Lee K</u>, Kim JD, Lee CY, Her S, Jung H. <I>Biomaterials</I>.
+    <u>Lee K</u>, Kim JD, Lee CY, Her S, Jung H.
+  where: > 
+    <b><I>Biomaterials</I></b>
   image:
   year: 2011
   repo:
@@ -189,7 +219,9 @@
 - title: >
     Dissolving microneedles for transdermal drug administration prepared by stepwise controlled drawing of maltose
   author: >
-    <u>Lee K</u>, Lee CY, Jung H.  <I>Biomaterials</I>.
+    <u>Lee K</u>, Lee CY, Jung H.
+  where: > 
+    <b><I>Biomaterials</I></b> (한빛사 논문)
   image:
   year: 2011
   repo:
@@ -199,7 +231,9 @@
 - title: >
     Drawing lithography: Three-dimensional fabrication of an ultrahigh-aspect-ratio microneedle
   author: >
-    <u>Lee K</u>, Lee HC, Lee DS, Jung H.  <I>Advanced Materials</I>.
+    <u>Lee K</u>, Lee HC, Lee DS, Jung H.
+  where: > 
+    <b><I>Advanced Materials</I></b> (한빛사 논문)
   image:
   year: 2010
   repo:
