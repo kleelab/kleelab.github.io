@@ -1,25 +1,19 @@
 ---
-- title: >
-    Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
-author: >
-    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
-where: >
-    <b><I>Nature Neuroscience</I></b> (한빛사 논문)
-image:
-year: 2024
-repo:
+- title: Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
+  author: Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
+  where: <b><I>Nature Neuroscience</I></b> (한빛사 논문)
+  image:
+  year: 2024
+  repo:
     name: accepted
     url: 
 
-- title: >
-    Recent strategies for neural dynamics observation at a larger scale and wider scope.
-author: >
-    Lee CH, Park YK, <b><u>Lee K#</u></b>.
-where: >
-    <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
-image:
-year: 2023 
-repo:
+- title: Recent strategies for neural dynamics observation at a larger scale and wider scope.
+  author: Lee CH, Park YK, <b><u>Lee K#</u></b>.
+  where: <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
+  image:
+  year: 2023 
+  repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
