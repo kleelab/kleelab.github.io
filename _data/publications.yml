@@ -1,23 +1,27 @@
 ---
-- title: > Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
-  author: > Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS.
-  where: > <I>Neurobiology of Disease</I>
+- title: >
+    Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
+  author: >
+    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   image:
-  year: 2021
+  where: >
+    <b><I>Nature Neuroscience</I></b> (한빛사 논문)
+  year: 2024
   repo:
-    name: link
-    url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
+    name: accepted
+    url: 
 
 - title: >
-    Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
+    Recent strategies for neural dynamics observation at a larger scale and wider scope.
   author: >
-    Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. <I>Neurobiology of Disease</I>.
+    Lee CH, Park YK, <b><u>Lee K#</u></b>.
   image:
-  year: 2021
+    where: >
+    <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
+  year: 2023
   repo:
     name: link
-    url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
-
+    url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
 - title: >
     Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
