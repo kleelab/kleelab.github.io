@@ -1,12 +1,9 @@
 ---
 
-- title: >
-    Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
-  author: >
-    Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
+- title: Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
+  author: Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   image:
-  where: >
-    <b>Nature Neuroscience</b> (한빛사 논문)
+  where: <b>Nature Neuroscience</b> (한빛사 논문)
   year: 2024
   repo:
   name: accepted
