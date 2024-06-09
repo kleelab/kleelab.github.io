@@ -1,84 +1,79 @@
 ---
-layout: page
+layout: default
+group: publications
 ---
 
-<div class="theses">
+<div class="container px-2 max-width: 100%" style="text-align:left;">
+    <img class="img-fluid mx-auto d-block" src="/static/img/publications_eric_hopkins_thoroghfare_islands_with_roses.png" alt="Thoroghfare Islands with Roses by Eric Hopkins" style="paddig-bottom:0.5em;"/>
+	Thoroghfare Islands with Roses (Detail) by <a href="http://www.erichopkins.com/" > Eric Hopkins </a>
+</div>
+<br>
+<h1>Publications</h1>
 
-    
-    <h1 class="publications">Publications</h1>
-    <br>
-    <h4> You can find a full publication list at <a href=https://scholar.google.co.kr/citations?hl=ko&pli=1&user=lhwBAKUAAAAJ>Google Scholar.</a></h4>
-    <h4> BRIC list at <a href=https://www.ibric.org/hanbitsa/treatise_index_for_author.php?idauthorid=7666>BRIC.</a></h4>
-    <br>
+<div class="container-fluid">
 
-    {% for pub in site.data.publications %}
+{% for publication in site.data.publications %}
+<hr>
+<div class="row" style="padding-top: 0px; margin-top: -10px;  margin-bottom: -10px" id="{{publication.pmid}}">
+<div style="font-size: 108% !important;">{{ publication.citation | markdownify }}</div>
+<div class="row" style="padding-top: - 5px; margin-top: -20px;">
+			<strong> &emsp; &emsp; &emsp;Access the paper: &emsp; </strong>
+			<!--PMID-->
+			{% if publication.pmid %}
+			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a> &emsp; </li>
+			{% endif %}
 
-    <div class="pub row">
-        <!--<div class="col-sm-2">
-            {% if pub.image.url %}
-            <a href="{{ pub.image.url }}">
-                <img class="pub-image" src="{{ pub.image.src }}"
-                     alt="illustration and link to full text" class="pub-image">
-            </a>
-            {% else %}
-            <img class="pub-image" src="{{ pub.image }}"
-                 alt="illustration" class="pub-image">
-            {% endif %}
-        </div>-->
-        <div class="col-sm-8">
-            <h4 class="pub-title">{{ pub.title }}</h4>
-            <p class="pub-author">{{ pub.author }}</p>
-            <p class="pub-where">{{ pub.where }}</p>
-            {% if pub.abstract %}
-            <p class="pub-abstract">{{ pub.abstract }}</p>
-            {% endif %}
-        </div>
-        <div class="col-sm-1">
-            <h8 class="pub-year">{{pub.year}}</h8>
-        </div>
-        <div class="col-sm-2">
-            <a href="{{ pub.repo.url }}">{{ pub.repo.name }}</a>
-        </div>
-    </div>
-	
+			<!--Biorxiv - optional -->
+			{% if publication.biorxiv %}
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a> &emsp; </li>
+			{% endif %}
 
-    {% endfor %}
+			<!-- PDF -->
+			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a> &emsp; </li>
 
-<!--
-  <h1 class="theses">Student Theses</h1>
-    <br>
+			<!-- Datasets - optional -->
+			{% if publication.data %}
+			<li>Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
+				{% if publication.data.size > 1 %}
+				<ul>
+					{% for dataset in publication.data %}
+					<li><a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
+					{% endfor %}
+				</ul>
+				{% else %}
+				<a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
+				{% endif %}
+			</li>
+			{% endif %}
 
+			<!--PDBS - optional-->
+			{% if publication.pdbs %}
+			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}:
+				{% for code in publication.pdbs %}
+				<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
+				{% endfor %}
+			</li>
+			{% endif %}
 
-    {% for pub in site.data.theses %}
+			<!--EMBDS - optional-->
+			{% if publication.emdbs %}
+			<li>Deposited Map{% if publication.emdbs.size > 1 %}s{% endif %}:
+				{% for code in publication.emdbs %}
+				<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
+				{% endfor %}
+			</li>
+			{% endif %}
 
-    <div class="pub row">
-        <div class="col-sm-2">
-            {% if pub.image.url %}
-            <a href="{{ pub.image.url }}">
-                <img class="pub-image" src="{{ pub.image.src }}"
-                     alt="illustration and link to full text" class="pub-image">
-            </a>
-            {% else %}
-            <img class="pub-image" src="{{ pub.image }}"
-                 alt="illustration" class="pub-image">
-            {% endif %}
-        </div>
-        <div class="col-sm-8">
-            <h4 class="pub-title">{{ pub.title }}</h4>
-            <p class="pub-author">{{ pub.author }}</p>
-            <p class="pub-where">{{ pub.where }}</p>
-            {% if pub.abstract %}
-            <p class="pub-abstract">{{ pub.abstract }}</p>
-            {% endif %}
-        </div>
-        <div class="col-sm-1">
-            <h8 class="pub-year">{{pub.year}}</h8>
-        </div>
-        <div class="col-sm-2">
-            <a href="{{ pub.repo.url }}">{{ pub.repo.name }}</a>
-        </div>
-    </div>
+			<!--pairs of maps and models - optional-->
+			{% if publication.paired_maps_and_models %}
+			<li>Deposited Structure{% if publication.paired_maps_and_models.size > 1 %}s{% endif %} and Map{% if publication.paired_maps_and_models.size > 1 %}s{% endif %}:
+				{% for pair in publication.paired_maps_and_models %}
+				<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{pair.pdb}}">{{pair.pdb}}</a>/<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{pair.emdb}}">{{pair.emdb}}</a>{% unless forloop.last %}, {% endunless %}
+				{% endfor %}
+			</li>
+			{% endif %}
 
-    {% endfor %}
--->
+      </div>
+</div>
+{% endfor %}
 </div>
