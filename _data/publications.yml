@@ -17,3 +17,31 @@
   repo:
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
+
+- title: Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
+  author: Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. 
+  where: <I>Neurobiology of Disease</I>
+  image:
+  year: 2021 
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
+    
+- title: Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
+  author: Dorst MC, Tokarska A, Zhou M, <u>Lee K</u>, Stagkourakis S, Broberger C, Masmanidis SC, Silberberg G.
+  where: <I>Nature Communications</I>
+  image:
+  year: 2020 
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41467-020-18882-y
+    
+- title: Temporally restricted dopaminergic control of reward-conditioned movements.
+  author: <u>Lee K*</u>, Claar LD* , Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC.
+  where: <b><I>Nature Neuroscience</I></b> (한빛사 논문)
+  image:
+  year: 2020 
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41593-019-0567-0
+    
