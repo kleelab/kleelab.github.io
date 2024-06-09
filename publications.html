@@ -3,15 +3,16 @@ layout: default
 group: publications
 ---
 
-<div class="container px-2 max-width: 100%" style="text-align:left;">
-    <img class="img-fluid mx-auto d-block" src="/static/img/publications_eric_hopkins_thoroghfare_islands_with_roses.png" alt="Thoroghfare Islands with Roses by Eric Hopkins" style="paddig-bottom:0.5em;"/>
-	Thoroghfare Islands with Roses (Detail) by <a href="http://www.erichopkins.com/" > Eric Hopkins </a>
-</div>
+<div class="theses">
+
+<h1 class="publications">Publications</h1>
 <br>
-<h1>Publications</h1>
+<h4> You can find a full publication list at <a href=https://scholar.google.co.kr/citations?hl=ko&pli=1&user=lhwBAKUAAAAJ>Google Scholar.</a></h4>
+<h4> BRIC list at <a href=https://www.ibric.org/hanbitsa/treatise_index_for_author.php?idauthorid=7666>BRIC.</a></h4>
+<br>
 
-<div class="container-fluid">
-
+<div class="pub row">
+	
 {% for publication in site.data.publications %}
 <hr>
 <div class="row" style="padding-top: 0px; margin-top: -10px;  margin-bottom: -10px" id="{{publication.pmid}}">
@@ -74,6 +75,7 @@ group: publications
 			{% endif %}
 
       </div>
+  </div>	
 </div>
 {% endfor %}
 </div>
