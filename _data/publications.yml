@@ -12,18 +12,14 @@
 #     - name: Mullins lab
 #       url: http://mullinslab.ucsf.edu/
 #
-- citation: "Gosai SJ, **Castro RI**, **Fuentes N**, **Butts JC**, **Kales S**, Noche RR, **Mouri K**, Sabeti PC, Reilly SK, **Tewhey R**.<br/> <span  style='color:DarkOliveGreen'>Machine-guided design of synthetic cell type-specific cis-regulatory elements</span>. bioRxiv. 2023"
-  date: '202308'
-  pmid: '37609287'
-  biorxiv: '2023.08.08.552077'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.08.08.552077v1'
+- citation: "Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.<br/> <span  style='color:DarkOliveGreen'>Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.</span>. <b><I>Nature Neuroscience</I></b> (한빛사 논문), 2024"
 
-- citation: "Xue JR, Mackay-Smith A, **Mouri K**, Fernandez Garcia M 5, Dong MX, Akers JF, Noble M, Li X; Zoonomia Consortium, Lindblad-Toh K, Karlsson EK, Noonan JP, Capellini TD, Brennand KJ, **Tewhey R**, Sabeti PC, Reilly SK.<br/> <span  style='color:DarkOliveGreen'>The functional and evolutionary impacts of human-specific deletions in conserved elements</span>. Science. 2023"
+- citation: "Lee CH, Park YK, <b><u>Lee K#</u></b>.<br/> <span  style='color:DarkOliveGreen'>Recent strategies for neural dynamics observation at a larger scale and wider scope.</span>. <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문), 2023"
   date: '202304'
   pmid: '37104592'
-  pdf: 'https://www.science.org/doi/10.1126/science.abn2253'
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub'
 
-- citation: "Carrasco Pro S, Hook H, Bray D, **Berenzy D**, Moyer D, Yin M, Labadorf AT, **Tewhey R**, Siggers T, Fuxman Bass JI.<br/> <span  style='color:DarkOliveGreen'>Widespread perturbation of ETS factor binding sites in cancer</span>. Nature Communications. 2023"
+- citation: "Carrasco Pro S, Hook H, Bray D, **Berenzy D**, Moyer D, Yin M, Labadorf AT, **Tewhey R**, Siggers T, Fuxman Bass JI.<br/> <span  style='color:DarkOliveGreen'>Widespread perturbation of ETS factor binding sites in cancer</span>. Nature Communications, 2023"
   date: '202302'
   pmid: '36808133'
   biorxiv: '2022.08.10.503516'
