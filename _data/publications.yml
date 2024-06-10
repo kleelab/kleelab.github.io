@@ -135,6 +135,42 @@
     name: link
     url: https://link.springer.com/article/10.1007/s10544-012-9683-2
 
+- title: Drawing lithography for microneedles- a review of fundamentals and biomedical application.
+  author: <b><u>Lee K</u></b>, Jung H.
+  where: <b><I>Biomaterials</I></b> (한빛사 논문)
+  image:
+  year: 2012
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0142961212007156
+
+- title: A minimally invasive blood-extraction system- elastic self-recovery actuator integrated with an ultrahigh-aspect-ratio microneedle.
+  author: Li CG, <u>Lee K</u>, Lee CY, Dangol M, Jung H.
+  where: <I>Advanced Materials</I>
+  image:
+  year: 2012
+  repo:
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201201109
+
+- title: A high-capacity, hybrid electro-microneedle for in-situ cutaneous gene transfer.
+  author: <b><u>Lee K</u></b>, Kim JD, Lee CY, Her S, Jung H.
+  where: <b><I>Biomaterials</I></b>
+  image:
+  year: 2011
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0142961211007381?via%3Dihub
+
+- title: Dissolving microneedles for transdermal drug administration prepared by stepwise controlled drawing of maltose.
+  author: <b><u>Lee K</u></b>, Jung H.
+  where: <b><I>Biomaterials</I></b> (한빛사 논문)
+  image:
+  year: 2011
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0142961211000159?via%3Dihub
+
 
 
 
