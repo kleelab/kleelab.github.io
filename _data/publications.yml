@@ -10,7 +10,7 @@
     url: 
 
 - title: Recent strategies for neural dynamics observation at a larger scale and wider scope.
-  author: Lee CH, Park YK, <b><u>Lee K#</u></b>.
+  author: Lee CH, Park YK, <b><u>Lee K</u></b>.
   where: <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
   image:
   year: 2023 
@@ -44,4 +44,58 @@
   repo:
     name: link
     url: https://www.nature.com/articles/s41593-019-0567-0
+    
+- title: Open source silicon microprobes for high throughput neural recording.
+  author: Yang L*, <b><u>Lee K*</u></b>, Villagracia J, Masmanidis SC.
+  where: <b><I>Journal of Neural Engineering</I></b>
+  image:
+  year: 2020 
+  repo:
+    name: link
+    url: https://iopscience.iop.org/article/10.1088/1741-2552/ab581a
+    
+- title: Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
+  author: <b><u>Lee K</u></b>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
+  where: <b><I>Cell Reports</I></b>
+  image:
+  year: 2019 
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S2211124719313749
+    
+- title: Aberrant features of in vivo striatal dynamics in movement disorders.
+  author: <b><u>Lee K</u></b>, Masmanidis SC.
+  where: <b><I>Journal of Neuroscience research</I></b>
+  image:
+  year: 2019 
+  repo:
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24519
+
+- title: A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
+  author: Li B*, <b><u>Lee K*</u></b>, Masmanidis SC, Li M.
+  where: <b><I>Journal of Neural Engineering</I></b>
+  image:
+  year: 2018 
+  repo:
+    name: link
+    url: https://iopscience.iop.org/article/10.1088/1741-2552/aabc94
+
+- title: Parvalbumin interneurons amplify striatal output and enhance performance during associative learning.
+  author: <b><u>Lee K*</u></b>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
+  where: <b><I>Neuron</I></b> (한빛사 논문)
+  image:
+  year: 2017 
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0896627317301411?via%3Dihub
+
+- title: Droplet-born air blowing: novel dissolving microneedle fabrication.
+  author: Kim JD, Kim M, Yang H, <u>Lee K</u>, Jung H.
+  where: <I>Journal of Controlled Release</I>
+  image:
+  year: 2013 
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S0168365913003167?via%3Dihub   
     
