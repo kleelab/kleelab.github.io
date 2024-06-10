@@ -108,4 +108,33 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0168365913003167?via%3Dihub
 
+- title: Thermostable branched DNA nanostructures as modular primers for polymerase chain reaction.
+  author: Hartman MR, Yang D, Tran TN, <u>Lee K</u>, Kahn JS, Kiatwuthinon P, Yancey KG, Trotsenko O, Minko S, Luo D.
+  where: <I>Angewandte Chemie</I>
+  image:
+  year: 2013
+  repo:
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201302175
+
+- title: Tower microneedle via reverse drawing lithography for innocuous intravitreal drug delivery.
+  author: Lee CY, <u>Lee K</u>, You YS, Lee SH, Jung H.
+  where: <I>Advanced Healthcare Materials</I>
+  image:
+  year: 2013
+  repo:
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201200239
+
+- title: An optimized hollow microneedle for minimally invasive blood extraction.
+  author: Li CG, Lee CY, <u>Lee K</u>, Jung H.
+  where: <I>Biomedical Microdevices</I>
+  image:
+  year: 2013
+  repo:
+    name: link
+    url: https://link.springer.com/article/10.1007/s10544-012-9683-2
+
+
+
 
