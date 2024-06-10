@@ -171,6 +171,13 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0142961211000159?via%3Dihub
 
-
+- title: Drawing lithography:Three-dimensional fabrication of an ultrahigh-aspect-ratio microneedle
+  author: <b><u>Lee K</u></b>, Lee HC, Lee DS, Jung H.
+  where: <b><I>Advanced Materials</I></b> (한빛사 논문)
+  image:
+  year: 2010
+  repo:
+    name: link
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.200902418
 
 
