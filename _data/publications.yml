@@ -44,14 +44,13 @@
   repo:
     name: link
     url: https://www.nature.com/articles/s41593-019-0567-0
-    
-- title: Open source silicon microprobes for high throughput neural recording.
-  author: Yang L*, <b><u>Lee K*</u></b>, Villagracia J, Masmanidis SC.
-  where: <b><I>Journal of Neural Engineering</I></b>
+
+- title: Recent strategies for neural dynamics observation at a larger scale and wider scope.
+  author: Lee CH, Park YK, <b><u>Lee K</u></b>.
+  where: <b><I>Biosensors and Bioelectronics</I></b> (한빛사 논문)
   image:
-  year: 2020 
+  year: 2023 
   repo:
     name: link
-    url: https://iopscience.iop.org/article/10.1088/1741-2552/ab581a
-    
+    url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
