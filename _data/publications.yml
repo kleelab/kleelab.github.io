@@ -1,6 +1,6 @@
 ---
 
-- title: 20. Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
+- title: 19. Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
   author: Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   where: <b><I>Nature Neuroscience</I></b>
   image:
@@ -9,7 +9,7 @@
     name: accepted
     url: 
 
-- title: 19. Recent strategies for neural dynamics observation at a larger scale and wider scope.
+- title: 18. Recent strategies for neural dynamics observation at a larger scale and wider scope.
   author: Lee CH, Park YK, <b><u>Lee K</u></b>.
   where: <b><I>Biosensors and Bioelectronics</I></b>
   image:
@@ -18,7 +18,7 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0956566323005808?via%3Dihub
 
-- title: 18. Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
+- title: 17. Early impairment of thalamocortical circuit activity and coherence in a mouse model of Huntington's disease.
   author: Shobe JL, Donzis EJ, <u>Lee K</u>, Chopra S, Masmanidis SC, Cepeda C, Levine MS. 
   where: <I>Neurobiology of Disease</I>
   image:
@@ -27,7 +27,7 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S0969996121001960?via%3Dihub
     
-- title: 17. Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
+- title: 16. Polysynaptic inhibition between striatal cholinergic interneurons shapes their network activity patterns in a dopamine-dependent manner.
   author: Dorst MC, Tokarska A, Zhou M, <u>Lee K</u>, Stagkourakis S, Broberger C, Masmanidis SC, Silberberg G.
   where: <I>Nature Communications</I>
   image:
@@ -36,7 +36,7 @@
     name: link
     url: https://www.nature.com/articles/s41467-020-18882-y
     
-- title: 16. Temporally restricted dopaminergic control of reward-conditioned movements.
+- title: 15. Temporally restricted dopaminergic control of reward-conditioned movements.
   author: <b><u>Lee K*</u></b>, Claar LD* , Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC.
   where: <b><I>Nature Neuroscience</I></b>
   image:
@@ -45,7 +45,7 @@
     name: link
     url: https://www.nature.com/articles/s41593-019-0567-0
 
-- title: 15. Open source silicon microprobes for high throughput neural recording.
+- title: 14. Open source silicon microprobes for high throughput neural recording.
   author: Yang L*, <b><u>Lee K*</u></b>, Villagracia J, Masmanidis SC.
   where: <b><I>Journal of Neural Engineering</I></b>
   image:
@@ -54,7 +54,7 @@
     name: link
     url: https://iopscience.iop.org/article/10.1088/1741-2552/ab581a
 
-- title: 14. Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
+- title: 13. Gain multiplication by corticostriatal and thalamostriatal input signals during reward-conditioned behavior.
   author: <b><u>Lee K</u></b>, Bakhurin KI, Claar LD, Holley SM, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
   where: <b><I>Cell Reports</I></b>
   image:
@@ -63,7 +63,7 @@
     name: link
     url: https://www.sciencedirect.com/science/article/pii/S2211124719313749
 
-- title: 13. Aberrant features of in vivo striatal dynamics in movement disorders.
+- title: 12. Aberrant features of in vivo striatal dynamics in movement disorders.
   author: <b><u>Lee K</u></b>, Masmanidis SC.
   where: <b><I>Journal of Neuroscience research</I></b>
   image:
@@ -71,15 +71,6 @@
   repo:
     name: link
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24519
-
-- title: 12. A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
-  author: Li B*, <b><u>Lee K*</u></b>, Masmanidis SC, Li M.
-  where: <b><I>Journal of Neural Engineering</I></b>
-  image:
-  year: 2018 
-  repo:
-    name: link
-    url: https://iopscience.iop.org/article/10.1088/1741-2552/aabc94
 
 - title: 11. A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
   author: Li B*, <b><u>Lee K*</u></b>, Masmanidis SC, Li M.
