@@ -6,5 +6,5 @@ excerpt:
 ---
 Prof. Lee's paper was published in Nature Neuroscience.<br>
 <a href="https://www.nature.com/articles/s41593-024-01699-z"> Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling </a> <br>
-This paper is Prof. Lee's 7th<a href="https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=93932&authorId=7666&pager.offset=0&pagerLimit=10&srAuthorId=7666&beforemode=author-treatise-list#!/list"> 한빛사</a>.<br>
-<a href="https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=9913254&article.offset=0&articleLimit=15&beforeMode=research-result#!/list"> News</a>.
+This paper is Prof. Lee's 7th<a href="https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=93932&authorId=7666&pager.offset=0&pagerLimit=10&srAuthorId=7666&beforemode=author-treatise-list#!/list"> 한빛사</a><br>
+<a href="https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=9913254&article.offset=0&articleLimit=15&beforeMode=research-result#!/list"> News</a>
