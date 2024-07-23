@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congrantulation. Chang Hak received an outstand paper award.
+title: Congratulation. Chang Hak received an outstand paper award.
 date:   2023-12-15
 excerpt: 
 ---
