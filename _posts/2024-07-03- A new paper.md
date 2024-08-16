@@ -10,4 +10,4 @@ This paper is Prof. Lee's 7th<a href="https://www.ibric.org/bric/hanbitsa/treati
 <a href="https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=9913254&article.offset=0&articleLimit=15&beforeMode=research-result#!/list"> news1</a>
 <a href="https://news.bbsi.co.kr/news/articleView.html?idxno=3162176"> news2</a>
 <a href="https://www.brainmedia.co.kr/BrainScience/24203"> news3</a>
-<a href="https://www.dailian.co.kr/news/view/1381952"> news4</a>
+<a href="https://www.etnews.com/20240710000013"> news4</a>
