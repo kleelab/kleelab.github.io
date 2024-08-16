@@ -16,10 +16,6 @@
   role: Graduate Student
   photo: "/images/Young Kwon Park.jpg"
    
-- name: Hayoung Lee
-  role: Graduate Student
-  photo: "/images/Hayoung Lee.JPG"
-
 - name: Min Yong Lee
   role: Graduate Student
   photo: "/images/Min Yong Lee.jpg"
@@ -35,14 +31,6 @@
 - name: Hyo Won Kim
   role: Intern
   photo: "/images/Hyo Won Kim.jpg"
-
-- name: Olga Piskunova
-  role: Intern
-  photo: "/images/Olga Piskunova.jpg"
-
-- name: Hye Jin Choi
-  role: Undergraduate Student
-  photo: "/images/Hye Jin Choi.jpg"
 
 - name: "This could be you !"
   role: Graduate Student
