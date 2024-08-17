@@ -3,51 +3,65 @@ layout: default
 ---
 
 <html lang="en">
-    <link rel="stylesheet" href="assets/css/styles.css">
+      <h2 class="content-head is-center">Contact Us!</h2>
+  <aside>
+       <p>
+           We would <em>love</em> to hear from you! </p>
+           <p>Please use the <b><em>Contact Form</em></b>
+           to send us a message.
+       </p>
+   </aside>
 
-    <!-- Main container -->
-    <div class="container">
-        <h1>Get in Touch</h1>
-        <p>Fill up the form to get in touch with us. </p>
+<!-- START HERE -->
+   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+   <!-- Style The Contact Form How Ever You Prefer -->
+   <link rel="stylesheet" href="asset/css/style.css">
 
-        <!-- Contact form section -->
-        <div class="contact-box">
-            <!-- Left side of the form -->
-            <div class="container-left">
-                <h3>Fill the Form*</h3>
-                <!-- Form -->
-                <form id="contactForm" onsubmit="return validateForm()">
-                    <div class="input-row">
-                        <div class="input-group">
-                            <label>Name*</label>
-                            <input type="text" id="name" placeholder="Enter your Name" required>
-                        </div>
+  <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
+  action="https://script.google.com/macros/s/AKfycbwMxYDrufp73bKdU8gMvxFDdHRuzcR4IKQUB33B7GqwyfyZS04/exec">
+    <!-- change the form action to your script url -->
 
-                        <div class="input-group">
-                            <label>Phone*</label>
-                            <input type="text" id="phone" placeholder="010-1234-5678" required>
-                        </div>
-                    </div>
-                    
-                    <!-- Input row for Email and Subject -->
-                    <div class="input-row">
-                        <div class="input-group">
-                            <label>Email*</label>
-                            <input type="email" id="email" placeholder="youremail@gmail.com" required>
-                        </div>
+    <div class="form-elements">
+      <fieldset class="pure-group">
+        <label for="name">Name: </label>
+        <input id="name" name="name" placeholder="What your Mom calls you" />
+      </fieldset>
 
-                        <div class="input-group">
-                            <label>Subject</label>
-                            <input type="text" id="subject" placeholder="Inquiry">
-                        </div>                       
-                    </div>
+      <fieldset class="pure-group">
+        <label for="message">Message: </label>
+        <textarea id="message" name="message" rows="10"
+        placeholder="Tell us what's on your mind..."></textarea>
+      </fieldset>
 
-                    <!-- Label for Message textarea -->
-                    <label>Message*</label>
-                    <textarea rows="10" id="message" placeholder="Enter your Message" required></textarea>
-                    <button type="submit">SEND MESSAGE</button>
-                </form>
-            </div>
+      <fieldset class="pure-group">
+        <label for="email"><em>Your</em> Email Address:</label>
+        <input id="email" name="email" type="email" value=""
+        required placeholder="your.name@email.com"/>
+      </fieldset>
+
+      <fieldset class="pure-group">
+        <label for="color">Favourite Color: </label>
+        <input id="color" name="color" placeholder="green" />
+      </fieldset>
+
+      <fieldset class="pure-group honeypot-field">
+        <label for="honeypot">To help avoid spam, utilize a Honeypot technique with a hidden text field; must be empty to submit the form! Otherwise, we assume the user is a spam bot.</label>
+        <input id="honeypot" type="text" name="honeypot" value="" />
+      </fieldset>
+
+      <button class="button-success pure-button button-xlarge">
+        <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
+    </div>
+
+    <!-- Customise the Thankyou Message People See when they submit the form: -->
+    <div class="thankyou_message" style="display:none;">
+      <h2><em>Thanks</em> for contacting us!
+        We will get back to you soon!</h2>
+    </div>
+
+  </form>
+    
             <!-- Right side with contact information -->
             <div class="container-right">
                 <h3>Reach Us</h3>
