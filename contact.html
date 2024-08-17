@@ -5,11 +5,8 @@ layout: default
 <html lang="en">
       <h2 class="content-head is-center">Contact Us!</h2>
   <aside>
-       <p>
-           We would <em>love</em> to hear from you! </p>
-           <p>Please use the <b><em>Contact Form</em></b>
-           to send us a message.
-       </p>
+       <p>Get in <em>touch</em></p>
+           <p>Please use the <b><em>Contact Form</em></b> to send us a message.</p>
    </aside>
 
 <!-- START HERE -->
@@ -18,31 +15,36 @@ layout: default
    <!-- Style The Contact Form How Ever You Prefer -->
    <link rel="stylesheet" href="asset/css/style.css">
 
-  <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
-  action="https://script.google.com/macros/s/AKfycbwMxYDrufp73bKdU8gMvxFDdHRuzcR4IKQUB33B7GqwyfyZS04/exec">
+  <form class="gform pure-form pure-form-stacked" method="POST" data-email="klee@dgist.ac.kr"
+  action="https://script.google.com/macros/s/AKfycbwbLfmdL-u09c35W2dAwMx4y2Tb6ZBKNUiVVV1NG00e0w8i7uoP_yYBfw0Ur14SnqRF/exec">
     <!-- change the form action to your script url -->
 
     <div class="form-elements">
       <fieldset class="pure-group">
         <label for="name">Name: </label>
-        <input id="name" name="name" placeholder="What your Mom calls you" />
+        <input id="name" name="name" placeholder="name" />
       </fieldset>
 
       <fieldset class="pure-group">
+        <label for="affiliation">affiliation: </label>
+        <input id="affiliation" name="affiliation" placeholder="소속(affiliation)" />
+      </fieldset>
+          
+      <fieldset class="pure-group">
         <label for="message">Message: </label>
         <textarea id="message" name="message" rows="10"
-        placeholder="Tell us what's on your mind..."></textarea>
+        placeholder="문의사항(inquiry)"></textarea>
       </fieldset>
 
       <fieldset class="pure-group">
         <label for="email"><em>Your</em> Email Address:</label>
         <input id="email" name="email" type="email" value=""
-        required placeholder="your.name@email.com"/>
+        required placeholder="your@email.com"/>
       </fieldset>
 
       <fieldset class="pure-group">
-        <label for="color">Favourite Color: </label>
-        <input id="color" name="color" placeholder="green" />
+        <label for="phone">phone: </label>
+        <input id="phone" name="color" placeholder="010-1234-5678" />
       </fieldset>
 
       <fieldset class="pure-group honeypot-field">
