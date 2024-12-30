@@ -19,14 +19,22 @@
 - name: Min Yong Lee
   role: Graduate Student
   photo: "/images/Min Yong Lee.jpg"
-  
-- name: Hyeonseo Kang
-  role: Graduate Student
-  photo: "/images/Hyeonseo Kang.jpg"
 
 - name: Hyo Won Kim
-  role: Intern
+  role: Graduate Student
   photo: "/images/Hyo Won Kim.jpg"
+
+- name: Seung Min Lee
+  role: Graduate Student
+  photo: "/images/Rock.jpg"
+
+- name: Min Seo Ko
+  role: Graduate Student
+  photo: "/images/Rock.jpg"
+  
+- name: Somin Moon
+  role: Intern
+  photo: "/images/Rock.jpg"
 
 - name: "This could be you !"
   role: Graduate Student
