@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome. Intern!
+title: Welcome. New members!
 date:   2025-01-06
 excerpt: 
 ---
