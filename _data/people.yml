@@ -4,10 +4,6 @@
   role: Assistant Professor
   photo: "images/Kwang Lee.jpg"
 
-- name: Min Ji Kim
-  role: Graduate Student
-  photo: "/images/Min Ji Kim.jpg"
-  
 - name: Chang Hak Lee
   role: Graduate Student
   photo: "/images/Chang Hak Lee.jpg"
@@ -32,10 +28,6 @@
   role: Graduate Student
   photo: "/images/Min Seo Ko.jpg"
   
-- name: Somin Moon
-  role: Research Assistant Intern
-  photo: "/images/Somin Moon.jpg"
-
 - name: "This could be you !"
   role: Graduate Student
   photo: "/images/Rock.jpg"
