@@ -24,6 +24,14 @@
   role: Graduate Student
   photo: "/images/Seung Min Lee.jpg"
 
+- name: Hyejin Song
+  role: Graduate Student
+  photo: "/images/Hyejin Song.jpg"
+
+- name: Gawon Lee
+  role: Graduate Student
+  photo: "/images/Gawon Lee.png"
+
 - name: "This could be you !"
   role: Graduate Student
   photo: "/images/Rock.jpg"
