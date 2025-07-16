@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulation. Min Ji's graduation.
+title: Min Ji's graduation.
 date:   2025-02-25
 excerpt: 
 ---
