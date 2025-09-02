@@ -1,5 +1,32 @@
 ---
 
+- title: 22. Multimodal neural interface for multi-targeting and multi-scale observation.
+  author: Lee MY, Kim HW, <b><u>Lee K#</u></b>
+  where: <b><I>under review</I></b>
+  image:
+  year: 2025
+  repo:
+    name: link
+    url: 
+
+- title: 21. Widefield cortical activity and functional connectivity during motorized locomotion.
+  author: Lee CH, Lee G, Song H, <b><u>Lee K#</u></b>
+  where: <b><I>under review</I></b>
+  image:
+  year: 2025
+  repo:
+    name: link
+    url:
+
+- title: 20. Hexagonal metal complex based mechanically robust transparent ultrathin gold µECoG for electro-optical neural interfaces.
+  author: Kim D, Bissannagari M, Kim B, Hong N, Park J, Lim H, Lee J, Lee J, Kim YK, Cho Y, <u>Lee K</u>, Lee Y, Yoon Y, Jang JE, Tsai D, Lee S, Kwon H, Choe HK, Kang H.
+  where: <b><I>npj Flexible Electronics</I></b>
+  image:
+  year: 2025
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41528-025-00403-w
+    
 - title: 19. Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
   author: Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   where: <b><I>Nature Neuroscience</I></b>
