@@ -6,7 +6,7 @@
   image:
   year: 2025
   repo:
-    name: link
+    name:
     url: 
 
 - title: 21. Widefield cortical activity and functional connectivity during motorized locomotion.
@@ -15,7 +15,7 @@
   image:
   year: 2025
   repo:
-    name: link
+    name:
     url:
 
 - title: 20. Hexagonal metal complex based mechanically robust transparent ultrathin gold µECoG for electro-optical neural interfaces.
