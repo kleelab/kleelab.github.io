@@ -21,8 +21,13 @@
   photo: "/images/Gawon Lee.png"
 
 - name: Jihyun Park
-  role: Researcher
+  role: Intern
   photo: "/images/Jihyun Park.jpg"
+
+
+- name: Jihee Choe
+  role: Intern
+  photo: "/images/Jihee Choe.jpg"
 
 - name: Juyeon Kwon
   role: Undergraduate Student
