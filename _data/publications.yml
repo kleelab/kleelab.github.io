@@ -10,7 +10,7 @@
     url: https://www.nature.com/articles/s41528-025-00403-w
     
 - title: 19. Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling.
-  author: Long C*, <b><u>Lee K*</u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
+  author: Long C<sup>#</sup>, <b><u>Lee K<sup>#</sup></u></b>, Yang L, Dafalias T, Wu AK, Masmanidis SC.
   where: <b><I>Nature Neuroscience</I></b>
   image:
   year: 2024
@@ -19,7 +19,7 @@
     url: https://www.nature.com/articles/s41593-024-01699-z 
 
 - title: 18. Recent strategies for neural dynamics observation at a larger scale and wider scope.
-  author: Lee CH, Park YK, <b><u>Lee K#</u></b>.
+  author: Lee CH, Park YK, <b><u>Lee K*</u></b>.
   where: <b><I>Biosensors and Bioelectronics</I></b>
   image:
   year: 2023 
@@ -46,7 +46,7 @@
     url: https://www.nature.com/articles/s41467-020-18882-y
     
 - title: 15. Temporally restricted dopaminergic control of reward-conditioned movements.
-  author: <b><u>Lee K*</u></b>, Claar LD* , Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC.
+  author: <b><u>Lee K<sup>#</sup></u></b>, Claar LD*<sup>#</sup>, Hachisuka A, Bakhurin KI, Nguyen J, Trott JM, Gill JL Masmanidis SC.
   where: <b><I>Nature Neuroscience</I></b>
   image:
   year: 2020 
@@ -55,7 +55,7 @@
     url: https://www.nature.com/articles/s41593-019-0567-0
 
 - title: 14. Open source silicon microprobes for high throughput neural recording.
-  author: Yang L*, <b><u>Lee K*</u></b>, Villagracia J, Masmanidis SC.
+  author: Yang L<sup>#</sup>, <b><u>Lee K<sup>#</sup></u></b>, Villagracia J, Masmanidis SC.
   where: <b><I>Journal of Neural Engineering</I></b>
   image:
   year: 2020 
@@ -82,7 +82,7 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24519
 
 - title: 11. A nanofabricated optoelectronic probe for manipulating and recording neural dynamics.
-  author: Li B*, <b><u>Lee K*</u></b>, Masmanidis SC, Li M.
+  author: Li B<sup>#</sup>, <b><u>Lee K<sup>#</sup></u></b>, Masmanidis SC, Li M.
   where: <b><I>Journal of Neural Engineering</I></b>
   image:
   year: 2018 
@@ -91,7 +91,7 @@
     url: https://iopscience.iop.org/article/10.1088/1741-2552/aabc94
 
 - title: 10. Parvalbumin interneurons modulate striatal output and enhance performance during associative learning.
-  author: <b><u>Lee K*</u></b>, Holley SM* , Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
+  author: <b><u>Lee K<sup>#</sup></u></b>, Holley SM<sup>#</sup>, Shobe JL, Chong NC, Cepeda C, Levine MS, Masmanidis SC.
   where: <b><I>Neuron</I></b>
   image:
   year: 2017
