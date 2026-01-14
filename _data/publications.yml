@@ -1,5 +1,13 @@
 ---
-
+- title: 21. Widefield cortical activity and functional connectivity during motorized locomotion.
+  author: Lee CH<sup>#</sup>, LEE G<sup>#</sup>, Song H<sup>#</sup>, <b><u>Lee K*</u></b>.
+  where: <I>Communications Biology</I>
+  image:
+  year: 2026
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s42003-026-09541-x
+    
 - title: 20. Hexagonal metal complex based mechanically robust transparent ultrathin gold µECoG for electro-optical neural interfaces.
   author: Kim D, Bissannagari M, Kim B, Hong N, Park J, Lim H, Lee J, Lee J, Kim YK, Cho Y, <u>Lee K</u>, Lee Y, Yoon Y, Jang JE, Tsai D, Lee S, Kwon H, Choe HK, Kang H.
   where: <I>npj Flexible Electronics</I>
