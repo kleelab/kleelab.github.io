@@ -1,4 +1,22 @@
 ---
+- title: 23. Multi-scale imaging and recording of in-vivo neural activity.
+  author: Lee MY<sup>#</sup>, Kim HW<sup>#</sup>, <b><u>Lee K</u></b>*
+  where: <b><I>BMB Reports</I></b>
+  image:
+  year: 2026
+  repo:
+    name: link
+    url: 
+
+- title: 22. Translational reprogramming of dentate gyrus peptidergic circuitry gates antidepressant efficacy.
+  author: Oh S, Jan J, Roussarie J, Jan G, Jeong M, Jo YS, Sin C, Choi H, <u>Lee K</u>, Yoon JH, Oh Y
+  where: <I>Molecular Psychiatry</I>
+  image:
+  year: 2026
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41380-026-03461-2
+
 - title: 21. Widefield cortical activity and functional connectivity during motorized locomotion.
   author: Lee CH<sup>#</sup>, LEE G<sup>#</sup>, Song H<sup>#</sup>, <b><u>Lee K</u></b>*
   where: <b><I>Communications Biology</I></b>
