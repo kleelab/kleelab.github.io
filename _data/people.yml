@@ -24,6 +24,18 @@
   role: Research Assistant
   photo: "/images/Sehui Lee.jpg"
 
+- name: Youngshin Park
+  role: Undergraduatge Student
+  photo: "/images/Youngshin Park.jpg"
+
+- name: Jihun Park
+  role: Undergraduatge Student
+  photo: "/images/Jihun Park.jpg"
+
+- name: Eunji Yu
+  role: Undergraduatge Student
+  photo: "/images/Eunji Yu.jpg"
+
 - name: "This could be you !"
   role: Graduate Student
   photo: "/images/Rock.jpg"
