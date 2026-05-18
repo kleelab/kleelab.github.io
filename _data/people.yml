@@ -24,21 +24,9 @@
   role: Research Assistant
   photo: "/images/Sehui Lee.jpg"
 
-- name: Youngshin Park
-  role: Undergraduatge Student
-  photo: "/images/Youngshin Park.jpg"
-
-- name: Jihun Park
-  role: Undergraduatge Student
-  photo: "/images/Jihun Park.jpg"
-
-- name: Eunji Yu
-  role: Undergraduatge Student
-  photo: "/images/Eunji Yu.jpg"
-
-- name: Chaeni Yoo
-  role: Undergraduatge Student
-  photo: "/images/Chaeni Yoo.jpg"
+- name: Gwiho Yoo
+  role: Research Assistant
+  photo: "/images/Gwiho Yoo.jpg"
 
 - name: "This could be you !"
   role: Graduate Student
