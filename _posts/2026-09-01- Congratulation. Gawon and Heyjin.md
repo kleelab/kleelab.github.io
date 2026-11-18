@@ -1,5 +1,4 @@
-\---
-
+---
 layout: post
 title:  Congratulation! Gawon and Heyjin won sholoarship and next-generation researcher.
 date:   2026-09-01
