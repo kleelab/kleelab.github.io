@@ -2,28 +2,24 @@
 
 - name: Kwang Lee
   role: Assistant Professor
-  photo: "images/Kwang Lee.jpg"
+  photo:
 
 - name: In-Seo Lee
   role: Postdoc
-  photo: "/images/In-Seo Lee.jpg"
+  photo:
 
 - name: Hyo Won Kim
   role: Graduate Student
-  photo: "/images/Hyo Won Kim.jpg"
+  photo:
 
 - name: Hyejin Song
   role: Graduate Student
-  photo: "/images/Hyejin Song.jpg"
+  photo:
 
 - name: Gawon Lee
   role: Graduate Student
-  photo: "/images/Gawon Lee.png"
+  photo:
 
 - name: Gwiho Yoo
   role: Research Assistant
-  photo: "/images/Gwiho Yoo.jpg"
-
-- name: "This could be you !"
-  role: Graduate Student
-  photo: "/images/Rock.jpg"
+  photo:
